@@ -1,0 +1,7 @@
+C:\Users\Ternary\source\repos\Git_Test_ProjOne\CaPracticeOne\bin\Debug\CaPracticeOne.exe.config
+C:\Users\Ternary\source\repos\Git_Test_ProjOne\CaPracticeOne\bin\Debug\CaPracticeOne.exe
+C:\Users\Ternary\source\repos\Git_Test_ProjOne\CaPracticeOne\bin\Debug\CaPracticeOne.pdb
+C:\Users\Ternary\source\repos\Git_Test_ProjOne\CaPracticeOne\obj\Debug\CaPracticeOne.csprojAssemblyReference.cache
+C:\Users\Ternary\source\repos\Git_Test_ProjOne\CaPracticeOne\obj\Debug\CaPracticeOne.csproj.CoreCompileInputs.cache
+C:\Users\Ternary\source\repos\Git_Test_ProjOne\CaPracticeOne\obj\Debug\CaPracticeOne.exe
+C:\Users\Ternary\source\repos\Git_Test_ProjOne\CaPracticeOne\obj\Debug\CaPracticeOne.pdb
